@@ -1,2 +1,2 @@
 # InfoSecNoob
-this repository is about my oscp journey from knowing little to knowing a lot more than before 
+this repository contain all the weird thing i tried and test during ctfs and others
